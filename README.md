@@ -1,0 +1,1 @@
+L4. Bandom kaip veikia git'as
