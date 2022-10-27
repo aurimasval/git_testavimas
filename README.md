@@ -4,4 +4,6 @@ Pridėjom texto Iš naujo branch'o
 
 PRIDEDAM NES NORIM KONFLIKTO
 
+NAUJO PAKEITIMAI
+
 Added new readme animation
